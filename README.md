@@ -1,16 +1,15 @@
-### Hi there 👋
+# Ariovaldo Odolgan
 
-<!--
-**ariovaldoodolgan/ariovaldoodolgan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm always looking for new challenges and new things to learn.
 
-Here are some ideas to get you started:
+Being a Full Stack Developer since 2019
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 From São Paulo, Brasil<br/>
+💻 Full Stack Developer at ClearSale<br/>
+🤝🏾 Looking to contribute to projects<br/>
+🧑🏾 Pronouns: He|Him|Ele<br/>
+
+Reach me:
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ariovaldo-odolgan-rodrigues-junior-503660129/)](https://www.linkedin.com/in/ariovaldo-odolgan-rodrigues-junior-503660129/)
