@@ -5,7 +5,7 @@ I'm always looking for new challenges and new things to learn.
 Being a Full Stack Developer since 2019
 
 📍 From São Paulo, Brasil<br/>
-💻 Full Stack Developer at ClearSale<br/>
+💻 Full Stack Developer at ITuring<br/>
 🤝🏾 Looking to contribute to projects<br/>
 🧑🏾 Pronouns: He|Him|Ele<br/>
 
